@@ -75,7 +75,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", The K-POP
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727483089/ei/cfj2ZqSbLJ_kir4PrLiOmAM/ip/172.183.88.183/id/JVocS7Yftw8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51250686/txs/51250684%2C51250685%2C51250686%2C51250687%2C51250688/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxYGkbAIaivh-jsvS1-2rs30t8tL7xCrY9jlPa80WxBh4w-QqueWz8Ft5H64/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgQs2FCkxsiVKH9gOODsTQ9ZuQlJs0z8esuPpGYf1r3WUCIDsqkuLRCGuBLXIAaIW9koRB331Q7MOuOwAnH3e0xkX3/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", The K-POP2
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
@@ -108,7 +108,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", RailCowGirl
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727471929/ei/2cz2Zo-lH5CKsfIP_eiF8QY/ip/52.225.24.115/id/czoEAKX9aaM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxVLxo0T-9hv11s3f9H5UWkfy06D2kTbIlnKa3xNOTSMbb7GAoTG8WABkeDs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152%2C51300760%2C51308289/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgWpqaVqS2OjdtJ19Dv5c6I3hhKYxZ_cr6dc6SxlKe6mYCIQC5UzXGPVmaii91uAwdUvu0w6o_DaeBNl4qoCu4HtEKlw%3D%3D/file/index.m3u8
+https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", Virtual Railfan
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
