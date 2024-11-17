@@ -147,7 +147,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tv Variety" tvg-logo="" tvg-id="", CTS SHOW
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731899802/ei/Ol06Z6uhCfm1kucPhIr2yA8/ip/20.75.95.168/id/UsZi0jxZHZ8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51340229/txs/51340226%2C51340227%2C51340228%2C51340229%2C51340653%2C51340654%2C51340655%2C51340656/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAXZ1YYXWamka7Li59ujePAWtXiFQu8RjQ9J1AXxtknXMBlMPLR53sxuE9So/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299154%2C51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZ9I5vCVl2CaZL-7cuF0U3JA989_ZCTL9UuhhQIy7W3MCIClV96hY5XJJXeFUnpxD0wbzOMkORpMzHeNb3zAuXO9X/file/index.m3u8
 
 #EXTINF:-1 group-title="Tv Variety" tvg-logo="" tvg-id="", CtiEntertainment
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
