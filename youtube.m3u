@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Peppa Pig
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733942367/ei/_4dZZ57GELeglu8PvtLMoQI/ip/172.183.131.171/id/XqcDF1_H510.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAfjXUBZQ-42pjWMmwR2_Kp_AbfgT-9HStbb93aNiSi_AyC8IkuSBNIm3oIw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51347746%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAP0VI-7k0OWvPPTsjYSnGBRYAt7bcsP9PRzUFc5UT9xbAiEAxRvNJiP7Yv8O0umweZPWk4bx7fxoEa4aMmWHsLBLW8g%3D/file/index.m3u8
+https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Lion Family1
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
@@ -132,7 +132,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", 4K Live Alishan
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733942401/ei/IYhZZ6fVIe6kvPEPm7GwkQc/ip/172.183.131.171/id/jXcy8dmGYqg.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAfheJheft61W8HfpRGIq3ifu4XG22HIAFq942l9WvQN6wxXXU0IB4UU6riI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51347747%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMSIgLH9GA4dLmSqefyWKTOU3EeKVCAsb3zjIfWq0so7AiALfHCycgRWexHe9RX7PwGatIlDyz7TB5ZMfj24mp0D_A%3D%3D/file/index.m3u8
+https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", eqm
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
@@ -159,7 +159,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tv Variety" tvg-logo="" tvg-id="", Mr.Player
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733942407/ei/J4hZZ6S5Me-Vir4PhYqXkA0/ip/172.183.131.171/id/YqL_NEtuek4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/qtApAQXuizcEO0DWfFpyuKzjFBMuWE3wlacYt0jYd-GuhmaEiUuULkchYT56S1U/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51347746%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKMEaTBEKiU1PLwamA583Xh_KD4MLWQVt0_5BtJtqiswAiEAmlwSiXkxTczsTHnNjaNCFjZ_bF-xvN-5Qo1eDO9JaoM%3D/file/index.m3u8
+https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", CTITV News
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
