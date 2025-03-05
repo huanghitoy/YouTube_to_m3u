@@ -78,7 +78,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", The K-POP2
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1741231082/ei/ir_IZ5GFAqDoybgPkcu08Q4/ip/20.102.223.138/id/Xki2MCehoDw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51393161/txs/51393160%2C51393161%2C51393162%2C51393163%2C51393164/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3z-jdqVLWvRZ1_cZdrIi2wq6LXLnIUzQ1MmExtAYzXmaOkNKOrrzokz3cGypMb6SiYuakxeGDU2/spc/RjZbSb-nw0f-7R1_crR7Rldy4oHjKaFeDEtd6r-3NcfXa4TSjzrVlp-z8F7JK6Y/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912%2C51411871/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALc8Be362bgOrIO9Fpo_Tuk94HclPho8dwdgP9HKIuIOAiB7_N0x9vd1B2G9yfEc3Vui4bcfDOYo8MjxPX7uY95_ww%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Soul Groove Music
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
