@@ -129,10 +129,10 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", FOBBV CAM
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1743973985/ei/AZryZ5SRG920kucP7c6LiAE/ip/20.42.43.82/id/LCGYWfbyBWc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51437494/txs/51437492%2C51437493%2C51437494%2C51437495/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcNoorv1N7lZL5e9U5_55uSuGMTSQujp3Ekf8xpL7AX_gW58uzWotJkCwluI9mQtXzwSkOcOmOrT/spc/_S3wKpq8JT-lz0RWGD-WVcgoj2uEGGW6JBX-L4BPiUTrZ4FjQ6EFm3yciMHu0oE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435733/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgQWZOLmzlhmoBNqF42Gf7lrF9_4Cb12HuvOCX9WHhXK4CIQDVbto8ZfciozRCSu3WOQVDRTxp9vbAi9Wq4HYv-SK4qA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", 4K Live Alishan
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1743973986/ei/AZryZ8aHO9zDkucPkt2OiAo/ip/20.42.43.82/id/B6eki-0-w0g.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414239/txs/51414239%2C51414240/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcO5j8fTrHQGb7zJfTt0YhfZK9hHDdFUlv_8unDW5icvRtWSHsGSvpliFUXPhKfSfD7B-4uM-sOH/spc/_S3wKqEJ5dbD-e89SzXZq7M5D7N0m61tMujlG5Hisb_ujFvtiL7LOOFzQ2F80FA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435733/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMtTTmOnyA2zkLIESl4SDZHGkdTfPS9nU7WlsiwOXNRsCIQDNldYwaVGu_-YUpoM9flK95uwZGN5EvI1DpsDKUW94wA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", eqm
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
