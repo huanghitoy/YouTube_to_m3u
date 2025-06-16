@@ -159,7 +159,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tv Variety" tvg-logo="" tvg-id="", Mr.Player
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1750108630/ei/djVQaKmvBJeV2_gPnIbOiAg/ip/40.77.110.188/id/9z_lYnHZNPI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AY1jyLP5IbjWyS0Jo-6kID4mxGgAjg8s0QzFsqDjpv0ObP4BX8qQIlUkRGDWZQQqvWgb5ckmz-xKtwgB/spc/l3OVKUm5vDYeHHtCelbRV4bljt6XdmBFY5Z7DkiQlBcbkjHTUYVg88l7eaeKGlXD5x4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgFzCWu4dARfJm4D1ajyReBkKDY1xBh52Md5aog5-4GWQCIDjPMx_BiTsfk4C-B6cml1Ew762RErmkTO_cFyCSeCMk/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", CTITV News
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
