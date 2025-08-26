@@ -39,7 +39,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Oddbods & FRIENDS
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1756192246/ei/lgmtaL6KJLu1kucPzPfbqAM/ip/20.161.67.219/id/uKpZmTy8Ktk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLNeaZ7iwuehR71NR05HOYUrm2pJKmzJQHSrdzOM4pOPScZrl1ZMOJ95PfN9Muc0WEmvXmSFNKSA/spc/l3OVKUv4ADAO8hnb9rhxVAXktSamB6lfE7V5uydkOD1w6YkVKq_ds_ilhJT4RwcGpNs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51550489%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJsmHbVFQYA8XCJQ4qXpKZbaP6gkmsuUDXsOrrpcaUGaAiEAvhfg2ku5R0hLdTMtvpszq8XMcMxAfOQLSzWQh-OpoTU%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", CANDY CRUSH
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
@@ -144,7 +144,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tv Dramas" tvg-logo="" tvg-id="", FTV DRAMA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1756178060/ei/LNKsaMC-FbuAkucPooHxmQM/ip/20.55.214.118/id/TXKWbIPgD_8.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLPVvVHzRdk9UHXMGFUU-kg5E3hKK21-nC9CsBKBIhRURGBehwGTnbwflu9LNhpxcmxdcFgCZQjo/spc/l3OVKT8n9QbugD0zLdDIRO9CmUz-5shrmRn3PDk_0Y4MNnGCg0rpU2gC2OV1MAk6_sc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgGonPIH2lxUCVPcE_ZC1RWEr03BiPXunptmoqz5jIGLkCIQCMINRexT-QA50VXaO9LmGPbz4x1Yl7_fPQq0VlBQ48DQ%3D%3D/file/index.m3u8
+https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tv Variety" tvg-logo="" tvg-id="", CTS SHOW
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
