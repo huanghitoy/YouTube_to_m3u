@@ -168,7 +168,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", EBC Financial
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761762797/ei/jQkCabW0BfyQr9gP88CN4AY/ip/20.161.30.50/id/1I2iq41Akmo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5STwgpZ6xuFCL1vQPb5W8S2cNqavL9QEIGKyi0UtYcvGOizs7NlreG0bTmtqY7Pxs2URt0S05Sm/spc/6b0G_OJc37q5yLK0RUEdNkCE_qjTy5HBe66kLIccs2cU2ivUn6AMAT8fM0FwtNvvcMA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIS0rskFh4yN9Ru_kt30riw3gbVt1vskNZJWG73TmJCdAiBmRmPetPfDG8zOOTtlWe9HAakFnLAWIe6V-6G2o4J2OA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", TVBS Global News
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
