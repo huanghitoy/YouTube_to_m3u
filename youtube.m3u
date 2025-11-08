@@ -66,7 +66,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Oko Lele
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762657913/ei/GLIPacH0N9q_ybgPl4SWgQ0/ip/52.237.143.51/id/QiXYY1Fgqks.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5QFo0MWy17QQhCQ8uyoyj4n04JFZROwGUw8RyZHZlku5wZoXVk_umMPh8dCeMt_HZ_TNhW0qqI5/spc/6b0G_OPo7_ghTHxbfHfxY2sa4gyZNY0zJQNDNlSM4ZMYVoRcqHIexoEaqcbeJbq--O4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANAIgmpjmHBLJvxYleWY2UnwX9j42dCOOFotewMEDjqfAiEA8yh_EPAfg1hI-f7kW_whoIRqKl0IbQ_VcqHC-b_rCl4%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", ARIRANG K-POP
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
@@ -177,7 +177,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", mnews
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762647603/ei/04kPaaClH9uu-coPp7-DgQQ/ip/64.236.192.144/id/5n0y6b0Q25o.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51634279/txs/51631264%2C51634249%2C51634250%2C51634278%2C51634279%2C51634280%2C51634281/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5SvHIRr14KHA8Wy_EteiFvVi4pno1SQGmAzD4qbSvoQ-9XiI6fJe8sJ8pRQB2nSC0Q7uGrv1jlZ/spc/6b0G_GMk9QnYKCJ3Ca9Aszw1uWWts560VhtA3CW2Ai05jbl-J5tXeaM7OEiGvzsYgNs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANf8Z41AF_ixbagmG6PecQcjw8zrJi_DSSHLzRuTg3BSAiAk56QZiwZiCK8fRY8CyNVYRSdlGkPKnGr4S4bwE-gJOQ%3D%3D/file/index.m3u8
+https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", TTV News
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
