@@ -24,10 +24,10 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Masha and the Bear2
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765218786/ei/gsU2aYrpB96b2_gP_quo4QI/ip/172.208.153.210/id/RK4Inqrw_2o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51666467/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AYUSA3DzrD0JHTD4P_QGjZFqJBbZl9xUWhZJDkQhYs7oBUFjp7MAsKwFmlOjGJx93EcsIezlsd6pO3Ko/spc/wH4Qq0dUpntW6eK5THRuIDSLHxsfguY9kpexXxx3Q77qb1lMkEBBueIkwaD0yH73bMM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgY0dVnnTncCqy-_M9CpOZ8dwCkARRjD_4f_fMO2ScWeECIH14V3_aCUxR38TGmvDlp2pZ_dv2RiZJ-v8iPulSgrtY/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", WB Kids
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765218786/ei/gsU2aYrwOf-d2_gP4J6E0AE/ip/172.208.153.210/id/r75dd3BBVco.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51679575/txs/51679575%2C51679576%2C51679577%2C51679578%2C51679579/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3BrMpsEGe1mVJbkNdgQjMhHtSaomFH_gl7YcMIzd7pO_ywmm7WV0yeUDzoC3lq_t-guompX8YbV/spc/wH4Qq1d65uCV5l-TTB3QT7itUmCr5QfAByBF9_rikj3m8rbvFJuuc9iYBoClwNTA-nU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgI-pfOVLSIuAbIgY16jS10LAEk1jB3i8UIUPyTbXHpVkCIQCrJ5lxuwsdyFmoU1tS4kiq4Qx4htzjWLmsKzEkJwvWsQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Wolfoo's stories
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
@@ -123,7 +123,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", Explore Bears & Bison
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765218818/ei/osU2acWlJKbGybgPksuogAk/ip/172.208.153.210/id/2360fnKZcIQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3CuPei4GQx3mMQICAZFmELV8yxZLhF_RAI4ykCLZSl0pNQSfZoq_ANPbxpZ-5kA6xceMpRxDwE_/spc/wH4Qq27YRM5S0D4DGCCsV3mz_kIuC41TilExnMHUotN0wrgazdupAAHHUbean6b0InU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJ9j8ouE0q--UMCbTEKZEej4HaQ9mqe1iw1Ltj6PH-fbAiEAv8l-TFN0JoxZbTFE3tgty9khCw3GS4dj81IxLZ135YM%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", Kansas City Zoo
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
