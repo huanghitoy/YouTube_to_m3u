@@ -123,7 +123,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", Explore Bears & Bison
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773053302/ei/FlGuaeHSCZvyybgPnqjukAw/ip/172.212.167.83/id/2360fnKZcIQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51773318/txs/51773317%2C51773318/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-zXlGl7GKIttwW69z8QhnaJn7UUdE6v2_KLoJfK-sNAz9-7FAnJBdrQZwpY9Qv-nhfwKRDqPTfo/spc/6dlaFCX4eHn9HyKGtwb0zpefv0zW0SVUFPHRemQOQu6xbbmP6fJWT-9xr2I-dzLw947ofQ/vprv/1/go/1/ns/WxQirnX1fFFFRAMFfRGWVNoT/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51791334/dover/11/n/9x8d6XNnE6k_QrUs/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgbDrLPhWNMp13w_f_f4zDYev6Ye5xSCltL3ytADQ4jKoCIFJJUbNifkbm85feSEo3hODqblf2acdRbfrIZrd0XMMX/file/index.m3u8
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", Kansas City Zoo
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
