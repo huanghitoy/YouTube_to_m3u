@@ -108,7 +108,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", RailCowGirl
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1774409591/ei/FwPDaZzLB8_pybgPj4CW8Qo/ip/52.154.131.102/id/tAWFO8_O_7M.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-wcOi6LAvBq_1pkLIPb3Soa-ig0vCdbiC5SvBrzmIk0MwSRaWN8vtpbK8BfPpefrq7xkmgDxbKs/spc/6dlaFFUOzpSpXW9Im4AZ_cqhTpOeqG1fyK1oKT4aFPXh1LkIgcX5Hmh3Qi3Qd9sHPeb-Jw/vprv/1/go/1/ns/jAw_fr47xGZmCLe9CJXMUlcT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51791334/dover/11/n/LkFuGGxTwDBG-ugP-7/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhALoY0FE2IKLrndWduNc4k9hNYhGHA3ypZccg874zqnJPAiEA85zsO6nFCn5gLU2vax0AsaSNPKDZYMiP0rr4UlMvg2o%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", Virtual Railfan
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
