@@ -144,7 +144,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tv Dramas" tvg-logo="" tvg-id="", FTV DRAMA
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775252197/ei/hd7PaeXpDrzpybgPnL-kqAQ/ip/52.154.19.226/id/NyrdWXddfR4.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51811607/txs/51811605%2C51811607/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AUUZDGLGRxqmfpSgis9Qej0PArnIEHRl9VXTT_66C9juEUNgdYgHRdcCafnkZp6CVaF_WDrzRkYH8mbW/spc/jlWavYewZwMa1c10fVoUVgjxx9xxEzEp0QB5onenBn6DFk7Vhj_WweMhUMSf2-Oo0LLt1g/vprv/1/go/1/ns/wYdxRqKsBN2_8__fU1YcS3MU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681/dover/11/n/Ovv94R8RYhpHxeHX-3gb/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgWdCnYGp1AtQQUjYEaL-wvK6Qq3NvMsCY7Me_j3re7g4CID05shBPZ8GW5hap78MB0Ym6uhrvvbCY73xRIlELW__C/file/index.m3u8
 
 #EXTINF:-1 group-title="Tv Variety" tvg-logo="" tvg-id="", CTS SHOW
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
