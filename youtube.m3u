@@ -87,7 +87,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Cafe Music BGM channel
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1777883233/ei/AQT4abGUIojoybgPzoWUUQ/ip/52.161.75.161/id/dOorphnxWdE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AbKmrwo9eG5CXOnqZ1e1wZ2YvbXClBCXcz8SkL0v6UegoRsdk7vimWQdfGnPFgCKaoOhPO4HN8N3Xchw/spc/96Xrv7X7STfP4cOLD23cawee9Kzb03DZpecKK82GAWIYaCuF4XXr03RoKjmgUwnrUgG5GA/vprv/1/go/1/ns/8zoM4dsNN-M3MWpDCyc6lKgU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51887891/dover/11/n/WOOxTeIWt3pzRC-r/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAOh32w9bSCTZGj2_GMjdO0TvexjmcVF8ZZwArdUkF3kdAiAiZ5iXom3gmLkyLDA_uTu0SxfdjYdCxgIs1E7uYbI3zQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Green Music BGM channel
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
